@@ -1,0 +1,17 @@
+- A process for finding out the goals of the system.
+- Captures the WHAT, not the HOW. Will create a document which lays out details
+- Spending time strategically upfront, reduces cost and time later on.
+- Requirements: A non-technical definition of something the user requires from the system that should be understood by anybody.
+- Specifications: A technical definition of what is required from the system. Keep it simple.
+- Example: 
+    1. Requirements: The user should be able to upload a video to the website
+    2. Specification: The uploader should accept MP4, should compress the video and save 3 different copies. 
+- Functional Requirements and specifications pertaining to the function of the program. Ex. What should the system do?
+- NonFunctional Requirements and Specifications on what goals should be met. Ex. How should the system work?
+
+- WRSPM Model:
+    1. World: Assumptions about what we are developing
+    2. Requirements: Defining our problem in generic easy to understand terms
+    3. Specifications: Defining the more technical details of the interface we are building
+    4. Program: The code, framework, development process 
+    5. Machine: The physical hardware we are running on.

@@ -3,5 +3,4 @@
 - Technical Debt: A poor, hard to understand 'hacky' implementation which will have to be repaid with interest later on. 20% of projects fail, many of those are due to poor development practices.
 
 - Typical Software Development Cycle: Requirements(what we are building), Design(How), Implementation(build), Verification(Testing), Maintenance(Bugs, New Features, Rolled Back etc)
-
-- 
+        
