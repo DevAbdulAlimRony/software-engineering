@@ -1,0 +1,28 @@
+- Design is the step where we start applying our plan and idea to real world solutions. Design is not coding, coding is not design. Ex. What framework we will use.
+
+- Design is two things:
+    1. Activity: Working to design the software. Ex. How software should interact with people.
+    2. Product: A document, or set of documents detailing the design of the software.
+
+- Stages of Design:
+    1. Break larger problem into smaller.
+    2. Understand each problem.
+    3. Identify potential solutions.
+    4. Describe solution abstraction.
+    5. Component Design.
+    6. Data Structure Design.
+    7. Algorithm Design.
+
+- Modularity Goals: Abstraction, Decomposability, Composability, Module Understandability, Continuity, Protectability.
+    - Coupling: How well modules work together.
+    - Cohesion: How well a module meets a singly designed goal.
+    - Breaking large into smaller.
+    - Information Hiding: Hiding complexity in a black box. Function, macro, library, classes, method. 
+    - Data Encapsulation: Hide the implementation details from users.
+
+- Coupling:
+    1. Content Coupling: When one module modifies or relies on the internal workings of another module.
+    2. Tight Coupling: When several modules have access to and manipulate the same global data.
+    3. External Coupling: When several modules have direct access to the same external I/O.
+- Medium Coupling
+- Loose Coupling(Data Coupling, Message Coupling, No Coupling)
