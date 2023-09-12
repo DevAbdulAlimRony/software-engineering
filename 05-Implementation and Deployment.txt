@@ -1,0 +1,23 @@
+- Coding principals:
+    1. Use a style guide, so all the code looks relatively the same
+    2. Code is written for people, not computers.
+    3. Make modules easy to learn and understand.
+    4. Go into everything with a plan.
+    5. Shorter Code != Better Code. Make it Readable.
+    6. Break up actions into methods.
+
+- Buy vs Build: Like using 3rd party package rather than building.
+
+- Deployment: Deployment is a mix between testing and implementation. It happens after testing, but a lot of times requires certain implementation to get correct. The level of planning in this phase, directly relates to how the deployment effects the overall project.
+
+- Deployment Planning: Amount of planning is dependant on the size of the change. We look at which areas will most likely have the biggest problems. Areas to look at-
+    -Database Activities
+    - 3rd Party Software Integration
+    - Run time changes.
+    - Training
+    - Downtime
+    - Backups
+    - Network
+    - Memory
+
+- Deployment Rollback: Rollback is the act of reverting a system back to a previous working state.
