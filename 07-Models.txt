@@ -1,0 +1,22 @@
+- Software Development
+  1. Linear/Predictive: Project has been done before, a clear process is in place, not much room for change.
+  2. Flexible/Adaptive: Project is a new idea, No clear process in place, project is very likely to change over time.
+
+- Waterfall Model: Water Fall one by one, one after another, step by step. Disadvantage is it is very very predictive. If we find errors in testing phase, we have to be back to that phase.Each step must be extremely well planned, going to take a while to get the product on the market, won't be able to adapt a new technology.
+
+- v-model: Improvement of waterfall model. It works layer to layer.
+    Layer1: Requirements, Acceptance Testing
+    Layer2: Design, System Design
+    Layer3: Architecture, Integration Testing
+    Layer4: Module, Unit Testing
+    Layer5: Implementation
+
+- Sashimi Model: Allows different disciplines to begin work quicker, Shortens Development Time, May result in error and redesign. In waterfall model, one step has to be wait until previous is finished. In sashimi, we categorized all steps into different phases.
+
+- Iterative Model: Build prototypes and adjust.
+
+- Incremental Model: Adds a bit of adaption to process. Adds layers to get feedback and adjust the process.
+
+- Unifed Process Framework
+
+- Spiral Model
