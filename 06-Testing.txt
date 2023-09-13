@@ -1,0 +1,25 @@
+- Testing is the process of finding errors. We can test code, implementation, documentation, and even other testing.
+
+- Bugs can be both an error and a deviation from expected behavior. Levels of Bugs:
+    1. Failure- The event by which the code deviates from expected behavior.
+    2. Error- The part of code that leads to the failure.
+    3. Fault - What the outcome actually was.
+Testing can be used to show the presence of bugs, but never to insure the absence of them.
+
+- Verification: Are we building the thing right? Does the software work compared to the given specification?
+
+- Validation: Are we building the right thing? Does the software compared to what the user needs?
+
+- Unit Testing: Testing to focus on the smallest unit of a software.
+
+- Integration Testing: Testing to focus on the communication and architecture of the program.
+
+- Incremental Testing: Testing where you create a module, do some tests, create another module and do some more tests.
+
+- Top-Down Testing: stub(A template of the model that will be implemented. Typically returns hard-coded values.)
+
+- Bottom-Up Testing: We need driver(Template which executes commands and initialize needed variables.)
+
+- Back to Back Testing: A test which compares a known good, to a new version.
+
+- Who should Test? - Developer themselves, Tester, User
