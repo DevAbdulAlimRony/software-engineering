@@ -1,0 +1,24 @@
+- Waterfall model has issues:
+    -During Verification, a lot of unexpected issues arise
+    -Software systems are complex and can't be 100% predicted.
+    -By the end, some software didn't meet the original, or modified requirements.
+    -Markets move over time. The product could be outdated by the time we finish.
+A group of engineers got together and decided a change was needed. Together they came up with the 'Agile Manifesto'. A set of ideas to develop better, quicker and more agile software. Agile(কর্মততপর, active).
+
+- Agile Manifesto: Set of principles/guidelines.
+    1. Individuals and interactions over process and tools.
+    2. Working software over comprehensive documentation.
+    3. Customer collaboration over contract negotiation.
+    4. Responding to change over following a plan.
+
+- Scrum: A model of agile methodology. Plan, Build, Learn...Repeat.
+    Roles:
+    1. Product Owner: What needs to be done in what manner.
+    2. Scrum Master: Holds team liable to scrum ideas. Facilitates meetings and conflict resolution.
+    3. Team: Team building the software 
+Define, Design, Build, Test
+Product Backlog, Sprint Planning Meeting, Sprint Backlog, Sprint Restrospective (Talk about process and ways), Sprint Review(Demonstrate sprint and take some suggestions). 1-4 Weeks time (daily scrum meeting on what you did, what you plan to do, what rollbacks are you dealing with)
+
+- Kanban
+
+- Lean Startup: Making experimental way to make a product. Learn, Build, Measure...(looping)
